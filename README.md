@@ -1,6 +1,6 @@
 # Belly-Button-Challenge
 
-GITHUB PAGE:https://robbernstein7.github.io/BBB-Github-Page/
+GITHUB PAGE: https://robbernstein7.github.io/BBB-Github-Page/
 
 
 Background
